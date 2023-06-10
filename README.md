@@ -29,6 +29,8 @@ run:
 This will generate the pixmaps and appropriate aliases.
 The freshly compiled cursor theme will be located in `dist/`
 
+AFTER you do that you must compress dist/ into a tar.gz file, then you can install it.
+
 ## Preview
 ![Afterglow](view-1.png)
 ![Afterglow](view-2.png)
