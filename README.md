@@ -1,5 +1,5 @@
 # Afterglow cursors
-This is an x-cursor theme inspired by the orignal Afterglow Cursor pack but recolored, originally based on macOS and the [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
+This is an x-cursor theme inspired by the orignal [Afterglow Cursor pack](https://github.com/yeyushengfan258/Afterglow-Cursors) but recolored, originally based on macOS and the [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
 
 ## Installation
 To install the cursor theme simply copy the compiled theme to your icons
@@ -28,8 +28,6 @@ run:
 
 This will generate the pixmaps and appropriate aliases.
 The freshly compiled cursor theme will be located in `dist/`
-
-AFTER you do that you must compress `dist/` into a tar.gz file, then you can install it.
 
 ## Preview
 ![Afterglow](view-1.png)
