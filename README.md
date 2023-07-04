@@ -35,4 +35,3 @@ The freshly compiled cursor theme will be located in `dist/`
 
 ## Preview
 ![Afterglow](view-1.png)
-![Afterglow](view-2.png)
