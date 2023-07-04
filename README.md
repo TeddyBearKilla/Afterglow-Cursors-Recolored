@@ -40,3 +40,4 @@ The freshly compiled cursor theme will be located in `dist/`
 
 ## Preview Alt-colors
 ![Afterglow](view-blue.png)
+![Afterglow](view-mauve.png)
