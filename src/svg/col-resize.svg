@@ -26,8 +26,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="38.875"
-     inkscape:cx="15.807074"
+     inkscape:zoom="35"
+     inkscape:cx="13.371429"
      inkscape:cy="16"
      inkscape:current-layer="g1235" />
   <metadata
@@ -69,7 +69,7 @@
          d="m-5.366 40.148-4.29 2.7238a0.876 0.81995 0 0 1-0.882 0.04493 0.834 0.78063 0 0 1-0.462-0.70201v-5.4307a0.834 0.78063 0 0 1 0.462-0.69639 0.894 0.83679 0 0 1 0.882 0.04493l4.29 2.7182a0.858 0.8031 0 0 1 0.366 0.65708 0.846 0.79187 0 0 1-0.366 0.64023z"
          color="#000000"
          fill="#fff"
-         style="-inkscape-stroke:none;fill:#89dceb;fill-opacity:1"
+         style="-inkscape-stroke:none;fill:#8a80e0;fill-opacity:1"
          id="path1229"
          inkscape:label="Fill" />
       <path
@@ -86,7 +86,7 @@
          stroke-linecap="round"
          stroke-linejoin="round"
          stroke-width="2"
-         style="-inkscape-stroke:none;paint-order:stroke markers fill;fill:#89dceb;fill-opacity:1"
+         style="-inkscape-stroke:none;paint-order:stroke markers fill;fill:#8a80e0;fill-opacity:1"
          id="path1233"
          inkscape:label="Fill" />
     </g>
@@ -106,7 +106,7 @@
          d="m-5.366 40.148-4.29 2.7238a0.876 0.81995 0 0 1-0.882 0.04493 0.834 0.78063 0 0 1-0.462-0.70201v-5.4307a0.834 0.78063 0 0 1 0.462-0.69639 0.894 0.83679 0 0 1 0.882 0.04493l4.29 2.7182a0.858 0.8031 0 0 1 0.366 0.65708 0.846 0.79187 0 0 1-0.366 0.64023z"
          color="#000000"
          fill="#fff"
-         style="-inkscape-stroke:none;fill:#89dceb;fill-opacity:1"
+         style="-inkscape-stroke:none;fill:#8a80e0;fill-opacity:1"
          id="path1239"
          inkscape:label="Fill" />
       <path
@@ -123,7 +123,7 @@
          stroke-linecap="round"
          stroke-linejoin="round"
          stroke-width="2"
-         style="-inkscape-stroke:none;paint-order:stroke markers fill;fill:#89dceb;fill-opacity:1"
+         style="-inkscape-stroke:none;paint-order:stroke markers fill;fill:#8a80e0;fill-opacity:1"
          id="path1243"
          inkscape:label="Fill" />
     </g>
@@ -144,7 +144,7 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke-width="2"
-     style="-inkscape-stroke:none;paint-order:stroke markers fill;fill:#89dceb;fill-opacity:1"
+     style="-inkscape-stroke:none;paint-order:stroke markers fill;fill:#8a80e0;fill-opacity:1"
      id="path1251"
      inkscape:label="Fill" />
 </svg>

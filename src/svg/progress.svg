@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="38.875"
-     inkscape:cx="15.807074"
-     inkscape:cy="16"
+     inkscape:zoom="45.254834"
+     inkscape:cx="16.484427"
+     inkscape:cy="18.694136"
      inkscape:current-layer="svg7247" />
   <metadata
      id="metadata7231">
@@ -64,7 +64,7 @@
          d="m -46,4 c -1.1046,0 -2,0.89543 -2,2 v 16 c 0,1.1046 0.89543,2 2,2 0.7693,-0.0016 1.4695,-0.44437 1.8008,-1.1387 0,0 2.774,-4.8613 9.1992,-4.8613 1.1046,0 2,-0.89543 2,-2 6e-5,-0.51707 -0.20014,-1.0141 -0.55859,-1.3867 l -0.09761,-0.0957 c -0.02421,-0.02209 -0.04896,-0.04358 -0.07422,-0.06445 l -10.856,-9.8672 c -0.002,-0.00196 -0.0039,-0.00391 -0.0059,-0.00586 -0.37452,-0.3715 -0.88064,-0.57999 -1.4082,-0.58008 z"
          color="#000000"
          fill="#ffffff"
-         style="-inkscape-stroke:none;paint-order:stroke markers fill;fill:#89dceb;fill-opacity:1"
+         style="-inkscape-stroke:none;paint-order:stroke markers fill;fill:#8a80e0;fill-opacity:1"
          id="path7235"
          inkscape:label="Fill" />
       <path
@@ -89,7 +89,7 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke-width="2"
-     style="display:inline;paint-order:stroke markers fill;stroke:#89dceb;stroke-opacity:1;stroke-width:2;stroke-dasharray:none"
+     style="display:inline;paint-order:stroke markers fill;stroke:#8a80e0;stroke-opacity:1;stroke-width:2;stroke-dasharray:none"
      id="path7245"
      inkscape:label="Fill" />
 </svg>
