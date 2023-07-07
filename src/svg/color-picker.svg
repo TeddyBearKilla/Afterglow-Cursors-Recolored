@@ -24,8 +24,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="35"
-     inkscape:cx="13.371429"
+     inkscape:zoom="38.875"
+     inkscape:cx="15.807074"
      inkscape:cy="16"
      inkscape:current-layer="svg1395" />
   <defs
@@ -79,7 +79,7 @@
            d="m 137.79,139.44 c -2.5313,-0.007 -4.6524,3.0529 -4.2539,4.5156 l 0.28125,1.125 c 0.24254,0.97015 -1.4062,0 -1.4062,0 l -1.4062,1.4062 0.70508,0.70508 -6.4238,6.4512 -0.28125,1.375 1,1 1.4062,-0.25 6.4238,-6.4512 0.70117,0.70117 1.4062,-1.4062 c 0,0 -0.97015,-1.6488 0,-1.4062 l 1.125,0.28125 c 2.9375,0.53125 6.7399,-3.4164 3.3125,-6.8438 -0.85684,-0.85684 -1.7461,-1.2006 -2.5898,-1.2031 z m -5.3633,8.4688 0.6875,0.6875 -3.7344,3.7344 -1.6875,0.3125 z"
            fill="#ffffff"
            id="path1387"
-           style="display:inline;fill:#8a80e0;fill-opacity:1"
+           style="display:inline;fill:#89dceb;fill-opacity:1"
            inkscape:label="Fill" />
       </g>
     </g>
