@@ -5,7 +5,7 @@ This is an x-cursor theme inspired by the orignal [Afterglow Cursor pack](https:
 
 I enjoyed using this cursor pack and then thought it would be a good idea to make special colors for myself and others. If you'd like to suggest colors you'd like submit a request.
 
-If you'd like to support me it's appreciated, takes some time to make each recolor and test them.
+If you'd like to support me on Ko-fi it's appreciated, takes some time to make each recolor and test them.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5ERHKP)
 </div>
