@@ -1,7 +1,7 @@
 <div align = center>
-
 # Afterglow cursors
 </div>
+
 This is an x-cursor theme inspired by the orignal [Afterglow Cursor pack](https://github.com/yeyushengfan258/Afterglow-Cursors) but recolored, originally based on macOS and the [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
 
 <div align = center>
