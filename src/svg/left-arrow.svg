@@ -26,8 +26,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="38.875"
-     inkscape:cx="15.807074"
+     inkscape:zoom="35"
+     inkscape:cx="13.371429"
      inkscape:cy="16"
      inkscape:current-layer="svg3115" />
   <metadata
@@ -57,7 +57,7 @@
        d="m -5.366,40.148 -4.29,2.7238 A 0.876,0.81995 0 0 1 -10.538,42.91673 0.834,0.78063 0 0 1 -11,42.21472 v -5.4307 a 0.834,0.78063 0 0 1 0.462,-0.69639 0.894,0.83679 0 0 1 0.882,0.04493 l 4.29,2.7182 A 0.858,0.8031 0 0 1 -5,39.50784 0.846,0.79187 0 0 1 -5.366,40.14807 Z"
        color="#000000"
        fill="#ffffff"
-       style="display:inline;-inkscape-stroke:none;fill:#f9e2af;fill-opacity:1"
+       style="display:inline;-inkscape-stroke:none;fill:#8a80e0;fill-opacity:1"
        id="path3107"
        inkscape:label="Fill" />
     <path
@@ -74,7 +74,7 @@
        stroke-linecap="round"
        stroke-linejoin="round"
        stroke-width="2"
-       style="display:inline;-inkscape-stroke:none;paint-order:stroke markers fill;fill:#f9e2af;fill-opacity:1"
+       style="display:inline;-inkscape-stroke:none;paint-order:stroke markers fill;fill:#8a80e0;fill-opacity:1"
        id="path3111"
        inkscape:label="Fill" />
   </g>

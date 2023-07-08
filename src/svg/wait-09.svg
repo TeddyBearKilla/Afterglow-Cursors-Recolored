@@ -27,17 +27,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="38.875"
-     inkscape:cx="15.987138"
+     inkscape:zoom="35"
+     inkscape:cx="13.371429"
      inkscape:cy="16"
-     inkscape:current-layer="svg10406"
-     showguides="true">
-    <sodipodi:guide
-       position="31.40836,-1.3890675"
-       orientation="0,-1"
-       id="guide45594"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg10406" />
   <metadata
      id="metadata10396">
     <rdf:RDF>
@@ -74,7 +67,7 @@
        stroke-linecap="round"
        stroke-linejoin="round"
        stroke-width="4"
-       style="paint-order:stroke markers fill;stroke:#f9e2af;stroke-opacity:1;stroke-width:4.1;stroke-dasharray:none"
+       style="paint-order:stroke markers fill;stroke:#8a80e0;stroke-opacity:1;stroke-width:4.1;stroke-dasharray:none"
        id="path10402"
        inkscape:label="Fill" />
   </g>
