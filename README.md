@@ -35,11 +35,5 @@ run:
 This will generate the pixmaps and appropriate aliases.
 The freshly compiled cursor theme will be located in `dist/`
 
-## Preview
-![Afterglow](view-purple.png)
-
-## Preview Alt-colors
-![Afterglow](view-blue.png)
-![Afterglow](view-catppuccin-blue.png)
-![Afterglow](view-catppuccin-mauve.png)
-![Afterglow](view-catppuccin-sky.png)
+## Preview (Check /previews for Alt-Colors)
+![Afterglow](previews/view-purple.png)
