@@ -46,5 +46,5 @@ The freshly compiled cursor theme will be located in `dist/`
 
 # Preview
 ![Afterglow](previews/view-purple.png)
-### (Check /previews for all colors)
+### (Check [/previews](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/tree/main/previews) for all colors)
 </div>
