@@ -27,10 +27,9 @@ sudo ./install.sh
 Then set the theme with your preferred desktop tools.
 
 ## Alternative Colors
-To use the script to install the other colors (until I learn if it's possible to script it) copy the contents inside of the `color/` you want into the `src/` folder, then you have to modify line 64 of the build.sh to say the color you're using, for example `THEME="Afterglow Purple"`.
-Then modify lines 13,14 & 16 & 17 of install.sh to say the color you're using, for example if `[ -d "$DEST_DIR/Afterglow-Cursors-Recolored-Purple" ]; then`
+To install the alternative colors you MUST use the `install.sh`inside the folder of the color you want.
 
-## Building from source
+## Building from source/Customize the Cursor
 You'll find everything you need to build and modify this cursor set in
 the `src/` directory. To build the xcursor theme from the SVG source
 run:
