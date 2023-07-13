@@ -44,7 +44,7 @@ The freshly compiled cursor theme will be located in `dist/`
 <div align = center>
 
 # Preview
-![Afterglow](previews/view-purple.png)
+![Afterglow](previews/CursorsSoFar.gif)
 ### (Check [/previews](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/tree/main/previews) for all colors)
 
 # Cursors made as of July 13th
