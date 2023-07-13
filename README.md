@@ -7,7 +7,7 @@ I enjoyed using this cursor pack and then thought it would be a good idea to mak
 
 If you'd like to support me on Ko-fi it's appreciated, takes time to make each recolor and test them.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5ERHKP)
+<p align="center"> <a href="https://ko-fi.com/teddybearkilla" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" alt="Ko-fi" width="50" height="50"/> </a></p>
 </div>
 
 ## Installation
