@@ -55,6 +55,18 @@ cursor-theme='Afterglow-Cursors-Recolored-Catppuccin-Green' <-- here
 
 Enjoy! And many thanks to [coffeewasmyidea](https://github.com/coffeewasmyidea) for forking and adding the tutorial!
 
+## Installation (Windows)
+
+Download the Zip file of the color you prefer in the [Releases Alt Colors Catppuccin (Windows)](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/releases/tag/Windows-Catppuccin)
+
+Extract it anywhere.
+
+Right click `install.inf`
+
+Go to your mouse settings & change it.
+
+Enjoy! And many thanks to [Mojas84](https://github.com/Mojas84) for converting then to windows & [Ripley](https://github.com/ripl3yy) for test installing them on windows & helping me figure out the steps!
+
 ## Alternative Colors
 To install the alternative colors you MUST use the `install.sh`inside the folder of the color you want.
 
