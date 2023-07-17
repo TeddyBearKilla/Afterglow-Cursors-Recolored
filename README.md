@@ -25,7 +25,35 @@ For system-wide installation for all users:
 sudo ./install.sh
 ```
 
-Then set the theme with your preferred desktop tools.
+Then set the theme with your preferred desktop settings tool.
+
+## Installation (Debian 12)
+
+For proper installation in Debian 12 (bookworm), you also need to install Gtk+ libcanberra
+bindings, to do this, install:
+
+```shell
+sudo apt install libcanberra-gtk-module libcanberra-gtk3-module
+```
+or
+```shell
+sudo apt-get install libcanberra-gtk*
+```
+
+If you want to apply this default cursor to gdm3 just edit the file
+`/etc/gdm3/greeter.dconf-defaults` and add or change `cursor-theme` line:
+
+```shell
+# Theming options
+# ===============
+#  - Change the GTK+ theme
+[org/gnome/desktop/interface]
+# gtk-theme='Adwaita'
+cursor-theme='Afterglow-Cursors-Recolored-Catppuccin-Green' <-- here
+...
+```
+
+Enjoy! And many thanks to [coffeewasmyidea](https://github.com/coffeewasmyidea) for forking and adding the tutorial!
 
 ## Alternative Colors
 To install the alternative colors you MUST use the `install.sh`inside the folder of the color you want.
