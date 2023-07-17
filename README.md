@@ -88,6 +88,6 @@ The freshly compiled cursor theme will be located in `dist/`
 ![Afterglow](previews/CursorsSoFar.gif)
 ### (Check [/previews](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/tree/main/previews) for all colors)
 
-# Cursors made as of July 13th
+# Cursors made as of July 17th
 ![Afterglow](previews/CursorsSoFar.png)
 </div>
