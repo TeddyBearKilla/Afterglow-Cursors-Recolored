@@ -10,11 +10,11 @@ else
   DEST_DIR="$HOME/.local/share/icons"
 fi
 
-if [ -d "$DEST_DIR/Afterglow-Cursors-Recolored-Catppuccin-Blue" ]; then
-  rm -r "$DEST_DIR/Afterglow-Cursors-Recolored-Catppuccin-Blue"
+if [ -d "$DEST_DIR/Afterglow-Recolored-Catppuccin-Blue" ]; then
+  rm -r "$DEST_DIR/Afterglow-Recolored-Catppuccin-Blue"
 fi
 
-cp -pr dist $DEST_DIR/Afterglow-Cursors-Recolored-Catppuccin-Blue
+cp -pr dist $DEST_DIR/Afterglow-Recolored-Catppuccin-Blue
 
 echo "Finished..."
 
