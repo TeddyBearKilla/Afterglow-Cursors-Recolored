@@ -49,7 +49,7 @@ If you want to apply this default cursor to gdm3 just edit the file
 #  - Change the GTK+ theme
 [org/gnome/desktop/interface]
 # gtk-theme='Adwaita'
-cursor-theme='Afterglow-Cursors-Recolored-Catppuccin-Green' <-- here
+cursor-theme='Afterglow-Recolored-Catppuccin-Green' <-- here
 ...
 ```
 
