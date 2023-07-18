@@ -25,7 +25,7 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="35"
-     inkscape:cx="11.185714"
+     inkscape:cx="13.371429"
      inkscape:cy="16"
      inkscape:current-layer="g12811" />
   <defs
@@ -87,7 +87,7 @@
          d="m15.5 9a6.5 6.5 0 0 0-6.5 6.5 6.5 6.5 0 0 0 6.5 6.5 6.5 6.5 0 0 0 3.834-1.252l4.8594 4.8594c0.39174 0.39174 1.0223 0.39174 1.4141 0s0.39174-1.0223 0-1.4141l-4.8574-4.8594a6.5 6.5 0 0 0 1.25-3.834 6.5 6.5 0 0 0-6.5-6.5z"
          fill="#fff"
          id="path12803"
-         style="fill:#94e2d5;fill-opacity:1"
+         style="fill:#8a80e0;fill-opacity:1"
          inkscape:label="Fill" />
     </g>
     <circle
@@ -96,7 +96,7 @@
        r="5.5"
        fill="#fff"
        id="circle12807"
-       style="fill:#94e2d5;fill-opacity:1"
+       style="fill:#8a80e0;fill-opacity:1"
        inkscape:label="Fill" />
     <path
        d="m15 1032.4v3h-3v1h3v3h1v-3h3v-1h-3v-3z"
