@@ -94,6 +94,7 @@ The freshly compiled cursor theme will be located in `dist/`
 
 # Found issues & Fixes
 - AMD GPUs (Found & Fixed by [Joris](Jorisvandijk.com))
+
 If you have an AMD card and your cursor's color is off (oversaturated), adding the following to your /etc/X11/xorg.conf.d/20-amdgpu.conf file will likely solve it.
 ```
 Section "OutputClass"
