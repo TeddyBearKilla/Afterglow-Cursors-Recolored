@@ -83,7 +83,7 @@ This will generate the pixmaps and appropriate aliases.
 The freshly compiled cursor theme will be located in `dist/`
 
 # Found issues & Fixes
-- AMD GPUs (Found & Fixed by [Joris](Jorisvandijk.com))
+- AMD GPUs (Found & Fixed by [Joris](https://jorisvandijk.com/))
 
 If you have an AMD card and your cursor's color is off (oversaturated), or flickering when hovering over things adding the following to your `/etc/X11/xorg.conf.d/20-amdgpu.conf` file will likely solve it.
 ```
