@@ -17,7 +17,7 @@ You can also request commisions there and I'll go trough the whole process of ma
 To install the cursor theme simply copy the compiled theme to your icons
 directory. Same with alternative colors.
 
-If you `git clone` my repo, go into any `color` and use:
+If you `git clone` my repo or download the [latest release](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/releases/tag/Latest-Release), go into any `color` and use:
 
 For local user installation: `./install.sh`
 
@@ -102,6 +102,6 @@ EndSection
 ![Afterglow](previews/CursorsSoFar.gif)
 ### (Check [/previews](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/tree/main/previews) for all colors)
 
-# Cursors made as of July 24th
+# All Cursors made as of July 25th
 ![Afterglow](previews/CursorsSoFar.png)
 </div>
