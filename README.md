@@ -1,7 +1,7 @@
 <div align = center>
 
 # Afterglow cursors
-This is an x-cursor theme inspired by the original [Afterglow Cursor pack](https://github.com/yeyushengfan258/Afterglow-Cursors) but recolored, originally based on macOS and the [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
+This is an x-cursor theme inspired by the original [**Afterglow Cursor pack**](https://github.com/yeyushengfan258/Afterglow-Cursors) but recolored, originally based on macOS and the [**capitaine-cursors**](https://github.com/keeferrourke/capitaine-cursors).
 
 I enjoyed using this cursor pack and then thought it would be a good idea to make special colors for myself and others. If you'd like to suggest colors you'd like, please submit a request.
 
@@ -17,7 +17,7 @@ You can also request commisions there and I'll go trough the whole process of ma
 To install the cursor theme simply copy the compiled theme to your icons
 directory. Same with alternative colors.
 
-If you `git clone` my repo or download the [latest release](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/releases/tag/Latest-Release), go into any `color` and use:
+If you `git clone` my repo or download the [**latest release**](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/releases/tag/Latest-Release), go into any `color` and use:
 
 For local user installation: `./install.sh`
 
@@ -56,11 +56,11 @@ cursor-theme='Afterglow-Recolored-Catppuccin-Green' <-- here
 ...
 ```
 
-Enjoy! And many thanks to [coffeewasmyidea](https://github.com/coffeewasmyidea) for forking and adding the tutorial!
+Enjoy! And many thanks to [**coffeewasmyidea**](https://github.com/coffeewasmyidea) for forking and adding the tutorial!
 
 ## Installation (Windows)
 
-Download the Zip file of the color you prefer in the [Releases: Alt Colors Catppuccin (Windows)](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/releases/tag/Windows-Catppuccin)
+Download the Zip file of the color you prefer in the [**Releases: Alt Colors Catppuccin (Windows)**](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/releases/tag/Windows-Catppuccin)
 
 Extract it anywhere.
 
@@ -68,7 +68,7 @@ Right click `install.inf`
 
 Go to your mouse settings & change it.
 
-Enjoy! And many thanks to [Mojas84](https://github.com/Mojas84) for converting then to windows & [Ripley](https://github.com/ripl3yy) for test installing them on windows & helping me figure out the steps!
+Enjoy! And many thanks to [**Mojas84**](https://github.com/Mojas84) for converting then to windows & [**Ripley**](https://github.com/ripl3yy) for test installing them on windows & helping me figure out the steps!
 
 ## Building from source / Customize the Cursor
 You'll find everything you need to build and modify this cursor set in
@@ -83,7 +83,7 @@ This will generate the pixmaps and appropriate aliases.
 The freshly compiled cursor theme will be located in `dist/`
 
 # Found issues & Fixes
-- AMD GPUs (Found & Fixed by [Joris](https://jorisvandijk.com/))
+- AMD GPUs (Found & Fixed by [**Joris**](https://jorisvandijk.com/))
 
 If you have an AMD card and your cursor's color is off (oversaturated), or flickering when hovering over things adding the following to your `/etc/X11/xorg.conf.d/20-amdgpu.conf` file will likely solve it.
 ```
