@@ -60,7 +60,7 @@ Enjoy! And many thanks to [**coffeewasmyidea**](https://github.com/coffeewasmyid
 
 ## Installation (Windows)
 
-Download the Zip file of the color you prefer in the [**Releases: Alt Colors Catppuccin (Windows)**](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/releases/tag/Windows-Catppuccin)
+Download the Zip file of the color you prefer in the [**Releases: Catppuccin (Windows)**](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/releases/tag/Windows-Catppuccin)
 
 Extract it anywhere.
 
