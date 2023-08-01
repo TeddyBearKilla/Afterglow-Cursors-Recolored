@@ -6,7 +6,7 @@
    viewBox="0 0 32 32"
    id="svg1857"
    sodipodi:docname="crosshair.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,8 +27,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="35"
-     inkscape:cx="13.371429"
+     inkscape:zoom="38.875"
+     inkscape:cx="15.794212"
      inkscape:cy="16"
      inkscape:current-layer="svg1857" />
   <image
@@ -55,7 +55,7 @@
        color="#000000"
        fill="#f8ffff"
        stroke-width="1.9192"
-       style="-inkscape-stroke:none;paint-order:stroke markers fill;fill:#8a80e0;fill-opacity:1"
+       style="-inkscape-stroke:none;paint-order:stroke markers fill;fill:#b16286;fill-opacity:1"
        id="path1833"
        inkscape:label="Fill" />
   </g>
@@ -85,7 +85,7 @@
        color="#000000"
        fill="#f8ffff"
        stroke-width="1.9192"
-       style="-inkscape-stroke:none;paint-order:stroke markers fill;fill:#8a80e0;fill-opacity:1"
+       style="-inkscape-stroke:none;paint-order:stroke markers fill;fill:#b16286;fill-opacity:1"
        id="path1841"
        inkscape:label="Fill" />
   </g>
@@ -104,7 +104,7 @@
        color="#000000"
        fill="#f8ffff"
        stroke-width="1.9192"
-       style="-inkscape-stroke:none;paint-order:stroke markers fill;fill:#8a80e0;fill-opacity:1"
+       style="-inkscape-stroke:none;paint-order:stroke markers fill;fill:#b16286;fill-opacity:1"
        id="path1847"
        inkscape:label="Fill" />
   </g>
@@ -124,7 +124,7 @@
        color="#000000"
        fill="#f8ffff"
        stroke-width="1.9192"
-       style="-inkscape-stroke:none;paint-order:stroke markers fill;fill:#8a80e0;fill-opacity:1"
+       style="-inkscape-stroke:none;paint-order:stroke markers fill;fill:#b16286;fill-opacity:1"
        id="path1853"
        inkscape:label="Fill" />
   </g>

@@ -61,7 +61,7 @@ function create {
 
 # generate pixmaps from svg source
 SRC=$PWD/src
-THEME="Afterglow Catpuccin Macchiato"
+THEME="Afterglow Gruvbox Purple"
 
 create svg
 
