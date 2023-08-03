@@ -27,17 +27,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="38.875"
-     inkscape:cx="15.974277"
-     inkscape:cy="16"
-     inkscape:current-layer="svg10406"
-     showguides="true">
-    <sodipodi:guide
-       position="31.40836,-1.3890675"
-       orientation="0,-1"
-       id="guide45594"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
+     inkscape:zoom="36.75"
+     inkscape:cx="16"
+     inkscape:cy="16.013605"
+     inkscape:current-layer="svg10406" />
   <metadata
      id="metadata10396">
     <rdf:RDF>
@@ -64,7 +57,7 @@
        d="m26.392 1042.4a12 12 0 0 0-4.3923-16.392 12 12 0 0 0-16.392 4.3923 12 12 0 0 0 4.3923 16.392 12 12 0 0 0 16.392-4.3923zm-3.4641-1.9999a8 8 0 0 1-10.928 2.9281 8 8 0 0 1-2.9282-10.928 8 8 0 0 1 10.928-2.9281 8 8 0 0 1 2.9282 10.928z"
        fill="#fff"
        fill-rule="evenodd"
-       style="paint-order:stroke markers fill"
+       style="paint-order:stroke markers fill;fill:#555555;fill-opacity:1;stroke:#222222;stroke-opacity:1"
        id="path10400" />
     <path
        transform="rotate(120)"
@@ -74,7 +67,7 @@
        stroke-linecap="round"
        stroke-linejoin="round"
        stroke-width="4"
-       style="paint-order:stroke markers fill;stroke:#b16286;stroke-opacity:1;stroke-width:4.1;stroke-dasharray:none"
+       style="paint-order:stroke markers fill;stroke:#666666;stroke-opacity:1;stroke-width:4.1;stroke-dasharray:none"
        id="path10402"
        inkscape:label="Fill" />
   </g>

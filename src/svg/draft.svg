@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="38.875"
-     inkscape:cx="15.794212"
-     inkscape:cy="16"
+     inkscape:zoom="36.75"
+     inkscape:cx="16"
+     inkscape:cy="16.013605"
      inkscape:current-layer="svg2535" />
   <defs
      id="defs2521">
@@ -64,18 +64,18 @@
          color="#000000"
          filter="url(#filter6888)"
          opacity=".6"
-         style="block-progression:tb;text-decoration-line:none;text-indent:0;text-transform:none"
+         style="text-decoration-line:none;text-indent:0;text-transform:none"
          id="path2525" />
       <path
          d="m35.875 860.38c-0.22185 0.024-0.43465 0.12479-0.59375 0.28125l-3 3c-0.82322 0.82322-2.2203 1.5569-3.4062 2.0312s-2.125 0.71875-2.125 0.71875c-0.42557 0.10992-0.75019 0.52922-0.75 0.96875v3c0 0.66667-0.45458 2.1677-0.9375 3.375s-0.96875 2.1875-0.96875 2.1875c-0.29604 0.60868 0.22941 1.4422 0.90625 1.4375-5e-3 0.67684 0.82882 1.2023 1.4375 0.90625 0 0 0.98019-0.48583 2.1875-0.96875s2.7083-0.9375 3.375-0.9375h3c0.43953 1.9e-4 0.85883-0.32443 0.96875-0.75 0 0 0.24436-0.93903 0.71875-2.125s1.208-2.583 2.0312-3.4062l3-3c0.38424-0.37177 0.38424-1.0657 0-1.4375l-5-5c-0.21786-0.21661-0.53949-0.32383-0.84375-0.28125z"
          color="#000000"
-         style="block-progression:tb;text-decoration-line:none;text-indent:0;text-transform:none"
+         style="text-decoration-line:none;text-indent:0;text-transform:none;fill:#222222;fill-opacity:1"
          id="path2527" />
       <path
          d="m 36,861.38 -3,3 c -2,2 -6,3 -6,3 v 3 c 0,2 -2,6 -2,6 l 7.0625,-7.0625 C 32.01678,869.17387 32,869.03878 32,868.88 c 0,-0.82843 0.67157,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.14843,0 -0.3021,-0.0223 -0.4375,-0.0625 L 26,877.38 c 0,0 4,-2 6,-2 h 3 c 0,0 1,-4 3,-6 l 3,-3 z"
-         fill="#ffffff"
+         fill="#3a3d4e"
          id="path2529"
-         style="display:inline;fill:#b16286;fill-opacity:1"
+         style="display:inline;fill:#111111;fill-opacity:1"
          inkscape:label="Fill" />
     </g>
   </g>

@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="38.875"
-     inkscape:cx="15.794212"
-     inkscape:cy="16"
+     inkscape:zoom="35"
+     inkscape:cx="13.371429"
+     inkscape:cy="16.014286"
      inkscape:current-layer="g12953" />
   <defs
      id="defs12937">
@@ -82,13 +82,13 @@
          shape-rendering="auto"
          solid-color="#000000"
          stop-color="#000000"
-         style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;display:inline;isolation:auto;mix-blend-mode:normal"
+         style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;display:inline;isolation:auto;mix-blend-mode:normal;fill:#222222;fill-opacity:1"
          id="path12943" />
       <path
          d="m 15.5,1029.4 a 6.5,6.5 0 0 0 -6.5,6.5 6.5,6.5 0 0 0 6.5,6.5 6.5,6.5 0 0 0 3.834,-1.2519 l 4.8594,4.8593 c 0.39174,0.3918 1.0223,0.3918 1.4141,0 0.39174,-0.3917 0.39174,-1.0223 0,-1.414 l -4.8574,-4.8594 a 6.5,6.5 0 0 0 1.25,-3.834 6.5,6.5 0 0 0 -6.5,-6.5 z"
          fill="#fff"
          id="path12945"
-         style="display:inline;fill:#b16286;fill-opacity:1"
+         style="display:inline;fill:#111111;fill-opacity:1"
          inkscape:label="Fill" />
     </g>
     <circle
@@ -97,7 +97,7 @@
        r="5.5"
        fill="#fff"
        id="circle12949"
-       style="display:inline;fill:#b16286;fill-opacity:1"
+       style="display:inline;fill:#111111;fill-opacity:1"
        inkscape:label="Fill" />
     <rect
        x="12"
@@ -105,6 +105,6 @@
        width="7"
        height="1"
        id="rect12951"
-       style="display:inline" />
+       style="display:inline;fill:#222222;fill-opacity:1" />
   </g>
 </svg>

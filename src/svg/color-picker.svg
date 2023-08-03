@@ -24,10 +24,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="38.875"
-     inkscape:cx="15.794212"
+     inkscape:zoom="37.40625"
+     inkscape:cx="15.986633"
      inkscape:cy="16"
-     inkscape:current-layer="g1389" />
+     inkscape:current-layer="svg1395" />
   <defs
      id="defs1379">
     <filter
@@ -67,19 +67,19 @@
            color="#000000"
            filter="url(#filter7898)"
            opacity=".2"
-           style="block-progression:tb;text-decoration-line:none;text-indent:0;text-transform:none"
+           style="text-decoration-line:none;text-indent:0;text-transform:none"
            id="path1383" />
         <path
            d="m137.78 859.81c-1.1129-3e-3 -2.0999 0.42584-2.9062 1.0312s-1.4539 1.3793-1.875 2.1875c-0.40053 0.76876-0.6222 1.5629-0.4375 2.4062-0.31392-0.0527-0.6506 0.0555-0.875 0.28125l-1.4062 1.4062c-0.38424 0.37177-0.38424 1.0657 0 1.4375-0.044 0.0279-0.0859 0.0593-0.125 0.0937l-5.5938 5.625c-0.13361 0.14699-0.2219 0.33461-0.25 0.53125l-0.28125 1.3438c-0.0712 0.31836-0.0312 1.206-0.0312 1.206l1 1s0.84233 0.0343 1.1562-0.0185l1.4062-0.21875c0.21105-0.0306 0.41142-0.13075 0.5625-0.28125l5.5938-5.625c0.0344-0.0391 0.0658-0.081 0.0937-0.125 0.37177 0.38424 1.0657 0.38424 1.4375 0l1.4062-1.4062c0.22577-0.2244 0.33398-0.56108 0.28125-0.875 1.9492 0.32279 3.9097-0.69 5-2.3438 1.1021-1.6716 1.1364-4.2073-0.84375-6.1875-1.0071-1.0071-2.1996-1.4655-3.3125-1.4688z"
            color="#000000"
-           style="block-progression:tb;text-decoration-line:none;text-indent:0;text-transform:none"
+           style="text-decoration-line:none;text-indent:0;text-transform:none;fill:#222222;fill-opacity:1"
            id="path1385" />
         <path
            transform="translate(0,721.36)"
            d="m 137.79,139.44 c -2.5313,-0.007 -4.6524,3.0529 -4.2539,4.5156 l 0.28125,1.125 c 0.24254,0.97015 -1.4062,0 -1.4062,0 l -1.4062,1.4062 0.70508,0.70508 -6.4238,6.4512 -0.28125,1.375 1,1 1.4062,-0.25 6.4238,-6.4512 0.70117,0.70117 1.4062,-1.4062 c 0,0 -0.97015,-1.6488 0,-1.4062 l 1.125,0.28125 c 2.9375,0.53125 6.7399,-3.4164 3.3125,-6.8438 -0.85684,-0.85684 -1.7461,-1.2006 -2.5898,-1.2031 z m -5.3633,8.4688 0.6875,0.6875 -3.7344,3.7344 -1.6875,0.3125 z"
-           fill="#ffffff"
+           fill="#3a3d4e"
            id="path1387"
-           style="display:inline;fill:#b16286;fill-opacity:1"
+           style="display:inline;fill:#111111;fill-opacity:1"
            inkscape:label="Fill" />
       </g>
     </g>
