@@ -72,7 +72,7 @@ Enjoy! And many thanks to [**Mojas84**](https://github.com/Mojas84) for converti
 
 ## Building from source / Customize the Cursor
 You'll find everything you need to build and modify this cursor set in
-the `src/` directory. To build the xcursor theme from the SVG source
+the `src/` directory. You'll need [**Inkscape**](https://inkscape.org/) installed. To build the xcursor theme from the SVG source
 run:
 
 ```
