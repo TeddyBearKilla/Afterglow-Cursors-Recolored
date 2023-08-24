@@ -68,7 +68,7 @@ Right click `install.inf`
 
 Go to your mouse settings & change it.
 
-Enjoy! And many thanks to [**Mojas84**](https://github.com/Mojas84) for converting then to windows & [**Ripley**](https://github.com/ripl3yy) for test installing them on windows & helping me figure out the steps!
+Enjoy! And many thanks to [**Mojas84**](https://github.com/Mojas84) for converting them to windows & [**Ripley**](https://github.com/ripl3yy) for test installing them on windows & helping me figure out the steps!
 
 ## Building from source / Customize the Cursor
 You'll find everything you need to build and modify this cursor set in
