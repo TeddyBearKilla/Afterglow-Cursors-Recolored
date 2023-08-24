@@ -10,11 +10,11 @@ else
   DEST_DIR="$HOME/.local/share/icons"
 fi
 
-if [ -d "$DEST_DIR/Afterglow-Recolored-Joris-3" ]; then
-  rm -r "$DEST_DIR/Afterglow-Recolored-Joris-3"
+if [ -d "$DEST_DIR/Afterglow-Recolored-Joris3-v2" ]; then
+  rm -r "$DEST_DIR/Afterglow-Recolored-Joris3-v2"
 fi
 
-cp -pr dist $DEST_DIR/Afterglow-Recolored-Joris-3
+cp -pr dist-joris3 $DEST_DIR/Afterglow-Recolored-Joris3-v2
 
 echo "Finished..."
 

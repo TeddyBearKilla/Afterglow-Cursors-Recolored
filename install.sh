@@ -10,9 +10,7 @@ else
   DEST_DIR="$HOME/.local/share/icons"
 fi
 
-if [ -d "$DEST_DIR/Afterglow-Recolored-Base" ]; then
-  rm -r "$DEST_DIR/Afterglow-Recolored-Base"
-fi
+if [ -d "$DEST_DIR/Afterglow-Recolored-Base" ]; then rm -r "$DEST_DIR/Afterglow-Recolored-Base"; fi
 
 cp -pr dist $DEST_DIR/Afterglow-Recolored-Base
 
