@@ -7,6 +7,8 @@ I enjoyed using this cursor pack and then thought it would be a good idea to mak
 
 If you prefer sharper cursors, check out: [**Qogir Cursors Recolored**](https://github.com/TeddyBearKilla/Qogir-Cursors-Recolored)
 
+If you prefer teardrop shaped cursors, check out:[**Graphite Cursors Recolored**](https://github.com/TeddyBearKilla/Graphite-Cursors-Recolored)
+
 If you'd like to support me on Ko-fi it's appreciated, takes time to make each recolor and test them.
 You can also request commisions there and I'll go trough the whole process of making a custom color for you with various additions.
 
@@ -52,7 +54,7 @@ If you want to apply this default cursor to gdm3 just edit the file
 #  - Change the GTK+ theme
 [org/gnome/desktop/interface]
 # gtk-theme='Adwaita'
-cursor-theme='Afterglow-Recolored-Catppuccin-Green' <-- here
+cursor-theme='Afterglow-Recolored-Purple' <-- here
 ...
 ```
 
@@ -72,7 +74,7 @@ Enjoy! And many thanks to [**Mojas84**](https://github.com/Mojas84) for converti
 
 ## Building from source / Customize the Cursor
 You'll find everything you need to build and modify this cursor set in
-the `src/` directory. You'll need [**Inkscape**](https://inkscape.org/) installed. To build the xcursor theme from the SVG source
+the `src/` directory. You'll need [**Inkscape**](https://inkscape.org/) & `xorg-xcursorgen` installed. To build the xcursor theme from the SVG source
 run this after you edit the SVGs:
 
 ```
