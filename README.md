@@ -104,6 +104,6 @@ EndSection
 ![Afterglow](previews/CursorsSoFar.gif)
 ### (Check [/previews](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/tree/main/previews) for all colors)
 
-# All Cursors made as of August 24th
+# All Cursors made as of August 29th
 ![Afterglow](previews/CursorsSoFar.png)
 </div>
