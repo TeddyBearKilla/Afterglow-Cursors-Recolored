@@ -54,7 +54,7 @@ cd "$SRC"; mkdir -p x1 x1_25 x1_5 x2; cd "$SRC"/$1
 SRC=$PWD/src
 
 cd "$SRC"
-rm -rf joris joris2 joris3 joris4 blue purple valen cat-blue cat-flamingo cat-green cat-macchiato cat-maroon cat-mauve cat-peach cat-pink cat-red cat-rosewater cat-sapphire cat-sky cat-teal cat-yellow dracula-cyan dracula-green dracula-orange dracula-pink dracula-purple dracula-red dracula-teddy dracula-yellow gruvbox-aqua gruvbox-black gruvbox-blue gruvbox-gray gruvbox-green gruvbox-mojas84 gruvbox-orange gruvbox-purple gruvbox-white x1 x1_25 x1_5 x2
+rm -rf joris joris2 joris3 joris4 blue purple cat-blue cat-flamingo cat-green cat-macchiato cat-maroon cat-mauve cat-peach cat-pink cat-red cat-rosewater cat-sapphire cat-sky cat-teal cat-yellow dracula-cyan dracula-green dracula-orange dracula-pink dracula-purple dracula-red dracula-teddy dracula-yellow gruvbox-aqua gruvbox-black gruvbox-blue gruvbox-gray gruvbox-green gruvbox-mojas84 gruvbox-orange gruvbox-purple gruvbox-white x1 x1_25 x1_5 x2
 cp -r svg joris; cp -r svg joris2; cp -r svg joris3; cp -r svg joris4
 cp -r svg blue; cp -r svg purple
 cp -r svg cat-blue; cp -r svg cat-flamingo; cp -r svg cat-green; cp -r svg cat-macchiato; cp -r svg cat-maroon; cp -r svg cat-mauve; cp -r svg cat-peach; cp -r svg cat-pink; cp -r svg cat-red; cp -r svg cat-rosewater; cp -r svg cat-sapphire; cp -r svg cat-sky; cp -r svg cat-teal; cp -r svg cat-yellow

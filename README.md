@@ -73,16 +73,16 @@ Go to your mouse settings & change it.
 Enjoy! And many thanks to [**Mojas84**](https://github.com/Mojas84) for converting them to windows & [**Ripley**](https://github.com/ripl3yy) for test installing them on windows & helping me figure out the steps!
 
 ## Building from source / Customize the Cursor
-You'll find everything you need to build and modify this cursor set in
-the `src/` directory. You'll need [**Inkscape**](https://inkscape.org/) & `xorg-xcursorgen` installed. To build the xcursor theme from the SVG source
-run this after you edit the SVGs:
+You'll need [**Inkscape**](https://inkscape.org/) & `xorg-xcursorgen` installed. Edit `./customcolorbuild.sh` lines 74-85. If you want consistent colors & have an idea for the main color I recommend using [**Imagecolorpicker**](https://imagecolorpicker.com/color-code/8a80e0). To build the cursors after you edit it, run the script:
 
 ```
-./build.sh
+./customcolorbuild.sh
 ```
 
 This will generate the pixmaps and appropriate aliases.
 The freshly compiled cursor theme will be located in `dist/`
+
+Alternatively, if you submit a request in the issues with a hexcode of the main color & tell me light or dark I can figure it out for you.
 
 # Found issues & Fixes
 - AMD GPUs (Found & Fixed by [**Joris**](https://jorisvandijk.com/))

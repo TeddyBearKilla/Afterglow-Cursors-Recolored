@@ -70,7 +70,6 @@ function create {
 
 # generate pixmaps from svg source
 SRC=$PWD/src
-
 cd "$SRC"
 cp -r svg purple
 
