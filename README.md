@@ -7,7 +7,7 @@ I enjoyed using this cursor pack and then thought it would be a good idea to mak
 
 If you prefer sharper cursors, check out: [**Qogir Cursors Recolored**](https://github.com/TeddyBearKilla/Qogir-Cursors-Recolored)
 
-If you prefer teardrop shaped cursors, check out:[**Graphite Cursors Recolored**](https://github.com/TeddyBearKilla/Graphite-Cursors-Recolored)
+If you prefer teardrop shaped cursors, check out: [**Graphite Cursors Recolored**](https://github.com/TeddyBearKilla/Graphite-Cursors-Recolored)
 
 If you'd like to support me on Ko-fi it's appreciated, takes time to make each recolor and test them.
 You can also request commisions there and I'll go trough the whole process of making a custom color for you with various additions.
@@ -104,6 +104,6 @@ EndSection
 ![Afterglow](previews/CursorsSoFar.gif)
 ### (Check [/previews](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/tree/main/previews) for all colors)
 
-# All Cursors made as of August 29th
+# All Cursors made as of September 4th
 ![Afterglow](previews/CursorsSoFar.png)
 </div>
