@@ -62,15 +62,15 @@ Enjoy! And many thanks to [**coffeewasmyidea**](https://github.com/coffeewasmyid
 
 ## Installation (Windows)
 
-Download the Zip file of the color you prefer in the [**Releases: Original & Catppuccin (Windows)**](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/releases/tag/Windows-Cursors)
+Download the Zip file of the color you prefer in the [**Releases: Windows Cursors**](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/releases/tag/Windows-Cursors)
 
 Extract it anywhere.
 
-Right click `install.inf`
+Right click `Install.inf`
 
 Go to your mouse settings & change it.
 
-Enjoy! And many thanks to [**Mojas84**](https://github.com/Mojas84) for converting them to windows & [**Ripley**](https://github.com/ripl3yy) for test installing them on windows & helping me figure out the steps!
+Enjoy! And thanks to [**Mojas84**](https://github.com/Mojas84) for initially converting some to windows, where I learned to do it myself & [**Ripley**](https://github.com/ripl3yy) for test installing them on windows & helping me figure out the install steps!
 
 ## Building from source / Customize the Cursor
 You'll need [**Inkscape**](https://inkscape.org/) & `xorg-xcursorgen` installed. Edit `./customcolorbuild.sh` lines 74-85. If you want consistent colors & have an idea for the main color I recommend using [**Imagecolorpicker**](https://imagecolorpicker.com/color-code/8a80e0). To build the cursors after you edit it, run the script:
@@ -104,6 +104,6 @@ EndSection
 ![Afterglow](previews/CursorsSoFar.gif)
 ### (Check [/previews](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/tree/main/previews) for all colors)
 
-# All Cursors made as of September 4th
+# All Cursors made as of September 7th
 ![Afterglow](previews/CursorsSoFar.png)
 </div>
